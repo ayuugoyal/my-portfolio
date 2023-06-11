@@ -1,0 +1,36 @@
+{
+  "links": [
+    {
+      "person": "My Portfolio",
+      "link": "https://www.ayuugoyal.xyz",
+      "note": "hope you like it."
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://medium.com/@ayuugoyal",
+      "icon": "medium"
+    },
+    {
+      "url": "https://dev.to/ayuugoyal",
+      "icon": "dev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ayuugoyal/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/ayuugoyal",
+      "icon": "github"
+    },
+    {
+      "url": "https://twitter.com/ayuugoyal",
+      "icon": "twitter"
+    },
+    {
+      "url": "https://instagram.com/ayuugoyal",
+      "icon": "instagram"
+    }
+  ]
+}

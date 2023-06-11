@@ -1,0 +1,10 @@
+{
+  "block1": {
+    "title": "About Myself",
+    "description": "I'm Ayush Goyal, a passionate second-year student at the University School of Automation and Robotics, Guru Gobind Singh Indraprastha University - East Delhi Campus, pursuing a Bachelor's degree in Automation and Robotics. With a keen interest in technology and a strong affinity for web development and blockchain, I've embarked on an exciting journey to explore the world of automation and cutting-edge technologies."
+  },
+  "block2": {
+    "title": "My Interest",
+    "description": "Currently, I'm expanding my knowledge by diving into Next.js and Solidity. Next.js is a powerful framework that enables server-side rendering and provides a seamless development experience for building modern web applications. It allows me to deliver high-performance and SEO-friendly websites. On the other hand, Solidity, the programming language for Ethereum smart contracts, excites me as it empowers me to develop decentralized applications that can transform traditional business processes. One of the most rewarding aspects of my journey is the ability to automate tasks using various technologies. By leveraging my expertise in web development, blockchain, and emerging technologies, I strive to automate and streamline processes to enhance efficiency and productivity."
+  }
+}

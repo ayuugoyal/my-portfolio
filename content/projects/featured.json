@@ -1,0 +1,75 @@
+[
+  {
+    "project": "Attendance Management System",
+    "url": "https://github.com/ayuugoyal/AttendanceManagementSystem",
+    "repo": "Private",
+    "descriptionTitle": "A modern, intuitive Attendance Management System",
+    "description": " for tracking student's attendance.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "Attendence",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/lap3.png"
+      },
+      {
+        "key": "Attendence",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/mob4.png"
+      }
+    ],
+    "stack": [
+      { "key": "mysql", "name": "mySQL", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "github", "name": "Github", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "git", "name": "Git", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "vscode", "name": "VSCode", "type": "devicon" },
+      { "key": "mailbox", "name": "Postman", "type": "fas" }
+    ]
+  },
+  {
+    "project": "Elysian | The Techfest",
+    "url": "https://elysian-edc.com",
+    "repo": "Public",
+    "descriptionTitle": "GGSIPU-EDC Annual Techfest Website",
+    "description": " will provide a detailed schedule of all the activities, including keynote speeches, panel discussions, workshops, and competitions, along with their respective timings and venues.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "techfest",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/lap5.png"
+      },
+      {
+        "key": "techfest",
+        "hover": "left",
+        "h": "700",
+        "w": "506",
+        "url": "/img/msc-mock_stack/mobe.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "github", "name": "Github", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "vscode", "name": "VSCode", "type": "devicon" },
+      { "key": "git", "name": "Git", "type": "devicon" }
+    ]
+  }
+]
