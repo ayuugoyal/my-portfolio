@@ -39,7 +39,7 @@ export default function FeaturedProject({ content }, index) {
 
   return (
     <>
-      <a href={url} target="_blank">
+      <a href={url} target="_blank" rel="noreferrer">
         <m.section
           key={index}
           className={css.project}
