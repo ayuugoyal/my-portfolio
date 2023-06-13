@@ -1,6 +1,7 @@
 // Sections
 import GitRecentProjects from "../../components/sections/projects/recent";
 import FeaturedProjects from "../../components/sections/projects/featured";
+import { useEffect, useState } from "react";
 
 import Color from "../../components/utils/page.colors.util";
 
