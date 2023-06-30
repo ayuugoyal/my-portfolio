@@ -9,6 +9,7 @@ import Color from "../components/utils/page.colors.util";
 
 import colors from "../content/index/_colors.json";
 import Head from "next/head";
+import ComingSoon from "../components/sections/comingsoon";
 
 //
 export default function HomePage() {
@@ -20,9 +21,10 @@ export default function HomePage() {
       </Head>
       <Color colors={colors} />
       <Hero />
-      <FeaturedProjects />
+      <About />
       <Technical />
-      {/* <Career /> */}
+      <FeaturedProjects />
+      <Career />
       <Looking />
     </>
   );
