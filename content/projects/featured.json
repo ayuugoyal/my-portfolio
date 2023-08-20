@@ -1,66 +1,62 @@
 [
   {
-    "project": "Attendance Management System",
-    "url": "https://github.com/ayuugoyal/AttendanceManagementSystem",
-    "repo": "Private",
-    "descriptionTitle": "A modern, intuitive Attendance Management System",
-    "description": " for tracking student's attendance.",
+    "project": "SocialSphere",
+    "url": "",
+    "repo": "Public",
+    "descriptionTitle": "A Social Media Server,",
+    "description": " a platform built using Express for social networking features.",
     "imageOptions": [],
     "images": [
       {
-        "key": "Attendence",
+        "key": "socialsphere",
         "hover": "right",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/lap3.png"
+        "url": "/img/msc-mock_stack/lap45.png"
       },
       {
-        "key": "Attendence",
+        "key": "socialsphere",
         "hover": "left",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/mob4.png"
+        "url": "/img/msc-mock_stack/mobi45.png"
       }
     ],
     "stack": [
-      { "key": "mysql", "name": "mySQL", "type": "devicon" },
-      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
-      { "key": "react", "name": "React", "type": "devicon" },
       { "key": "nodejs", "name": "Node.js", "type": "devicon" },
-      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "nodejs", "name": "express.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
       { "key": "github", "name": "Github", "type": "devicon" },
-      { "key": "css3", "name": "CSS3", "type": "devicon" },
       { "key": "git", "name": "Git", "type": "devicon" },
-      { "key": "figma", "name": "Figma", "type": "devicon" },
       { "key": "vscode", "name": "VSCode", "type": "devicon" },
       { "key": "mailbox", "name": "Postman", "type": "fas" }
     ]
   },
   {
-    "project": "Elysian | The Techfest",
-    "url": "https://elysian-edc.com",
+    "project": "AI Summarizer chatbot",
+    "url": "https://summarizeraii.netlify.app/",
     "repo": "Public",
-    "descriptionTitle": "GGSIPU-EDC Annual Techfest Website",
-    "description": " will provide a detailed schedule of all the activities, including keynote speeches, panel discussions, workshops, and competitions, along with their respective timings and venues.",
-    "imageOptions": [{ "key": "size", "value": "large" }],
+    "descriptionTitle": "Developed an AI Summarizer chatbot",
+    "description": " using Rapid APIS to generate concise summaries from large blocks of text.",
+    "imageOptions": [],
     "images": [
       {
-        "key": "techfest",
+        "key": "chatbot",
         "hover": "right",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/lap5.png"
+        "url": "/img/msc-mock_stack/lap46.png"
       },
       {
-        "key": "techfest",
+        "key": "socialsphere",
         "hover": "left",
-        "h": "700",
-        "w": "506",
-        "url": "/img/msc-mock_stack/mobe.png"
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/mobi46.png"
       }
     ],
     "stack": [
-      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
       { "key": "react", "name": "React", "type": "devicon" },
       { "key": "github", "name": "Github", "type": "devicon" },
       { "key": "nodejs", "name": "Node.js", "type": "devicon" },
@@ -68,6 +64,103 @@
       { "key": "html5", "name": "HTML5", "type": "devicon" },
       { "key": "css3", "name": "CSS3", "type": "devicon" },
       { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "vscode", "name": "VSCode", "type": "devicon" },
+      { "key": "git", "name": "Git", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "Task Management System",
+    "url": "https://taskmanagementapplications.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "Utilized visual representations of tasks, ",
+    "description": "enabling users to update task statuses with ease, leading to a more transparent and streamlined workflow.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "chatbot",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/lap47.png"
+      },
+      {
+        "key": "socialsphere",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/mobi47.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "github", "name": "Github", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "vscode", "name": "VSCode", "type": "devicon" },
+      { "key": "git", "name": "Git", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "Sumz",
+    "url": "https://sumzi.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "Developed an Sumz website ",
+    "description": "which gives summary of a link or a website url.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "chatbot",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/lap49.png"
+      },
+      {
+        "key": "socialsphere",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/mobi49.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "github", "name": "Github", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "vscode", "name": "VSCode", "type": "devicon" },
+      { "key": "git", "name": "Git", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "Ayuugoyal-CLI",
+    "url": "https://github.com/ayuugoyal/ayush-cli/",
+    "repo": "Public",
+    "descriptionTitle": "Make a package named ayuugoyal-cli ",
+    "description": "which provide a small intro of mine into cli.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "cli",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/lap48.png"
+      }
+    ],
+    "stack": [
+      { "key": "github", "name": "Github", "type": "devicon" },
+      { "key": "npm", "name": "npm", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
       { "key": "vscode", "name": "VSCode", "type": "devicon" },
       { "key": "git", "name": "Git", "type": "devicon" }
     ]

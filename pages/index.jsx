@@ -22,9 +22,9 @@ export default function HomePage() {
       <Color colors={colors} />
       <Hero />
       <About />
-      <Technical />
+      {/* <Technical /> */}
       <FeaturedProjects />
-      <Career />
+      {/* <Career /> */}
       <Looking />
     </>
   );
